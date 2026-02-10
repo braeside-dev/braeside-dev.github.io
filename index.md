@@ -11,8 +11,7 @@ A small group making useful things
 
 ## Coming Soon
 
-![An ear with an earhorn, which passes through a portal](/earhorn/assets/earhorn_icon.png) 
-
+<img src="/earhorn/assets/earhorn_icon.png" alt="An ear with an earhorn, which passes through a portal]" width="1480px" height="1480">
 - EarHorn -- iOS app baby monitor. two phones? good to go. 
 
 
