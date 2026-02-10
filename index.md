@@ -9,7 +9,7 @@ A small group making useful things
 
 ## Coming Soon
 
-!(/earhorn/assets/earhorn_icon.png) 
+![An ear with an earhorn, which passes through a portal](/earhorn/assets/earhorn_icon.png) 
 
 - EarHorn -- iOS app baby monitor. two phones? good to go. 
 
