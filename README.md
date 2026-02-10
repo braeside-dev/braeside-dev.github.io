@@ -1,9 +1,14 @@
-# BRAESIDE DEV
+---
+title: BRAESIDE DEV
+date: February 9, 2026
+description: A small group making useful things
+---
 
 A small group making useful things
 
-
 ## Coming Soon
+
+!(/earhorn/assets/earhorn_icon.png) 
 
 - EarHorn -- iOS app baby monitor. two phones? good to go. 
 
