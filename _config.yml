@@ -1,3 +1,5 @@
 title: BRAESIDE DEV
+url: https://braesidedev.com
+description: A small group making useful things
 plugins:
   - jekyll-relative-links
